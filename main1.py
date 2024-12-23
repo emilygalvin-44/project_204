@@ -7,7 +7,7 @@ import numpy as np
 
 
 
-long_lat_cities = pd.read_csv("/Users/emilygalvin/VS Code/2024_project/2024 Trips.csv")
+long_lat_cities = pd.read_csv("2024 Trips.csv")
 
 # Set up the page configuration
 st.set_page_config(
