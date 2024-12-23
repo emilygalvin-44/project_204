@@ -34,7 +34,7 @@ if page == "Home":
 
     
 
-    st.image("/Users/emilygalvin/VS Code/2024_project/IMG_FE91E5B33D1E-1.jpeg", caption="Placeholder Image for Home Page", width=300)
+    st.image("IMG_FE91E5B33D1E-1.jpeg", caption="Placeholder Image for Home Page", width=300)
 
 ## MAP VIEW 
 elif page == "Map view":
