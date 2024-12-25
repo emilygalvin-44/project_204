@@ -43,7 +43,7 @@ custom_theme = f"""
     /* Secondary background color for containers and sidebar */
     .css-1d391kg {{
         background-color: #3a4660; /* Sidebar background color */
-        color: white;
+        color: black;
     }}
 
     /* Text colors */
