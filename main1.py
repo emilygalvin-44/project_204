@@ -30,7 +30,7 @@ custom_theme = f"""
     /* Primary color for buttons and links */
     .stButton>button {{
         background-color: #9e8a77; /* Primary color */
-        color: white;
+        color: black;
         border-radius: 10px;
         padding: 10px 20px;
         border: none;
